@@ -1,0 +1,22 @@
+---
+layout: post
+title: Chinese Characters in the Wild
+date: '2012-02-06 12:23:17'
+tags:
+- china-pictures
+- chinese-characters
+- shanghai
+- xiamen
+---
+
+I went through some of my photos of my trip to China in June/July last year. I remember encountering some really awesome signs and Chinese characters being a bit different. Chinese typography is quite interesting for me. Here are some pictures of interesting Chinese characters in the wild:
+<p style="text-align: center;"><a href="http://res.cloudinary.com/daxztt3th/image/upload/v1412837346/happymariankindergarden_gf3qpi.jpg"><img class="aligncenter  wp-image-816" title="happymariankindergarden" src="http://res.cloudinary.com/daxztt3th/image/upload/v1412837346/happymariankindergarden_gf3qpi.jpg" alt="" width="640" height="480" /></a></p>
+<p style="text-align: left;">This was taken in Shanghai. Can't remember what area exactly (maybe Xintiandi?), but I was just strolling around the street looking for interesting things. It immediately caught my attention due to the almost alien like crop circle characters. It says: 快樂瑪麗安 (simplified: 快乐玛丽安), which means "Happy Marianne". 瑪麗 is Mary. However, it's interesting to note that they didn't use the correct full translation of the transliterated name and kept it "Marian". Before I could figure out that Marian was indeed the name "Marianne", I wondered why they used "丽" for the "ri" syllable as that syllable does exist in Chinese. Then I realized, that transliteration is meant to imitate sound not form. So 丽 is closer the "ri" sound in "Marianne".</p>
+<p style="text-align: left;">Besides the interesting transliteration, just look at those characters! Now what intrigues me is the second character: 樂. All the other ones seem to resemble their non-modified counterparts closely, but 樂 has a lot missing in the sign above. It seems to resemble a kid sitting/playing with a ball right? I think it combined the simplicity of 乐 too. In any case, a fascinating sign and use of Chinese characters! Next one:</p>
+<p style="text-align: center;"><a href="http://res.cloudinary.com/daxztt3th/image/upload/v1412837346/newegg_dnmxxw.jpg"><img class="aligncenter  wp-image-819" title="newegg" src="http://res.cloudinary.com/daxztt3th/image/upload/v1412837346/newegg_dnmxxw.jpg" alt="" width="640" height="480" /></a></p>
+<p style="text-align: left;">This is quite an obvious one, but cleverly done. 新蛋商城 has been cleverly modified to add an "egg" in the character 蛋. What I find more interesting is the combination of 新 going into 蛋 almost forming a <a title="Chinese Ligatures" href="http://confusedlaowai.com/2012/01/chinese-ligatures/">ligature</a> of sort. The 新 also looks a like lizard with a tail, right?</p>
+<p style="text-align: center;"><a href="http://res.cloudinary.com/daxztt3th/image/upload/v1412837345/55tuan_sa9dcs.jpg"><img class="aligncenter  wp-image-821" title="55tuan" src="http://res.cloudinary.com/daxztt3th/image/upload/v1412837345/55tuan_sa9dcs.jpg" alt="" width="640" height="480" /></a></p>
+<p style="text-align: left;"><a href="http://55tuan.com">55tuan</a> is a group buying site in China. Their logo seems to love hearts! The characters are 窝窝团. Note the use of 55 that resemble the pinyin "wu" -&gt; "wo". This is a common in Chinese names, to use numbers as sounds. Like the popular job site 51job.com -&gt; "Wo Yao Job". I'm not exactly sure as to what 窝窝 would translate into. If anyone can help me here it would be great? Nest? Den? 团 is mean "group". I just like the way they changed the strokes into hearts. Clever!</p>
+<p style="text-align: center;"><a href="http://res.cloudinary.com/daxztt3th/image/upload/v1412837344/IMAG0119_ig59rs.jpg"><img class="aligncenter  wp-image-823" title="IMAG0119" src="http://res.cloudinary.com/daxztt3th/image/upload/v1412837344/IMAG0119_ig59rs.jpg" alt="" width="538" height="896" /></a></p>
+<p style="text-align: left;">Not exactly a modern sign, but I found this in the Shanghai Museum. They had a whole wing on Chinese calligraphy. This was the short-lived <a href="http://hua.umf.maine.edu/China/SMcalligraphy/pages/10105w.html">lacquer script</a>. It was different from other styles at the time. Notice the strong thick horizontal lines? Quite cool.</p>
+<p style="text-align: left;">I can't wait to live in China. I'd be on the hunt for interesting characters in the wild all the time. Have you seen some interesting characters?</p>

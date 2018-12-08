@@ -1,0 +1,23 @@
+---
+layout: post
+title: About Me
+date: '2009-12-09 05:07:05'
+---
+
+<a href="http://res.cloudinary.com/daxztt3th/image/upload/v1412837596/nieldlr_nbcw90.jpg"><img class="alignleft size-full wp-image-415" title="nieldlr" src="http://res.cloudinary.com/daxztt3th/image/upload/v1412837596/nieldlr_nbcw90.jpg" alt="" width="292" height="389" /></a>
+
+I'm a foreigner (老外) learning Mandarin, and it's rather confusing.
+<h4>When did you start learning Chinese?</h4>
+I started learning in January 2008 at University. At first I was intrigued, but then it became an obsession. Forward to now, and I'm still learning something new about Chinese everyday.
+<h4>Why Chinese?</h4>
+I had to choose a foreign language for course credit in University. I chose Mandarin over French, 'cause I've always had an interest in the East. The culture, the people, the politics. Also, Mandarin is a great assest to have if you are looking for career opportunities. Mandarin was then a no brainer.
+<h4>Do you currently live in China?</h4>
+Nope. I plan on going there after my University studies. I have gone to China twice though, once in June/July 2009 and then June/July 2011.
+<h4>Why this blog?</h4>
+It came about as I started following other Mandarin learning blogs. I've always blogged on other sites, but never focused on Chinese and language learning. In December 2009, Confused Laowai was born to help other learners of Chinese and to help keep track of my own learning levels. In addition to that, I like to share interesting Mandarin language content.
+<h4>What are you doing currently?</h4>
+I'm doing a Master's Degree in Hypermedia for Language Learning at Stellenbosch University in South Africa in conjunction with the <a href="http://ml.sun.ac.za">MIH Media Lab</a>. My research involves looking at Chinese characters and finding better ways to learn them via technology. It is due for completion end of 2012 (hopefully!).
+<h4>How can I contact you?</h4>
+Send me an email to confusedlaowai@gmail.com or follow me on Twitter: <a href="http://twitter.com/confusedlaowai">@confusedlaowai</a>
+
+For more about me and my other web projects visit my personal site: <a href="http://niel.delarouviere.com">niel.delarouviere.com</a>

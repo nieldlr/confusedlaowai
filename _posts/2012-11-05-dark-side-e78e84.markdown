@@ -1,0 +1,38 @@
+---
+layout: post
+title: The Dark Side of 玄
+date: '2012-11-05 14:21:38'
+tags:
+- chinese-radicals
+- e78e84
+---
+
+After running a script last month to see where the first occurrence of a <a title="Radicals sorted by their first occurrence in HSK" href="http://confusedlaowai.com/2012/10/radicals-sorted-occurrence-hsk/">radicals appear in HSK</a>, there were some interesting observations. Such as the fact that some radicals only occur on level 6 or some never occur! I decided to look at some of those radicals to investigate why they are so rare, and maybe learn a bit more about them. First up is 玄(xuán). It sits at radical number 95.
+<h2>Meaning</h2>
+玄 means black &amp; mysterious, but other definitions also pop-up such as profound, dark &amp; incredible. My first reaction, was huh? How can it have all those meanings? It's not an easy one like other radicals (人 &amp; 心 for instance).
+
+I decided to find more clarity. After some searching I found this word: 玄奥. This means <strong>"profound mystery" or "the mysteries of the Universe"</strong>. Then it started making sense. Dark is related to the unknown &amp; this can be mysterious, but also profound &amp; incredible in the sense of its mystery.
+
+The Death Star, before Luke destroyed it, could have been described 玄妙 (mysterious &amp; profound).
+
+<a href="http://res.cloudinary.com/daxztt3th/image/upload/v1412837099/DeathStar_tkv6x5.jpg"><img class="aligncenter size-full wp-image-1338" title="DeathStar" src="http://res.cloudinary.com/daxztt3th/image/upload/v1412837099/DeathStar_tkv6x5.jpg" alt="" width="640" height="302" /></a>
+<h2>As A Radical</h2>
+This is all fine and dandy, but it seems 玄 as a radical is very rare. In HSK it appears in 蓄 (xù) which means "to store up", which it makes sense to have the 田 (field) radical there. If you remove the 艹 radical at the top you get another character,畜 (xù), which means "to raise animals".
+
+Notice how both characters are pronounced the same: xù
+
+玄 doesn't act here as a semantic radical, <strong>but rather a phonetic clue to pronunciation</strong>. I decided to find some more characters that has 玄 in it. Here's what I found:
+
+弦昡泫炫牽玅玆玈玹眩舷蚿衒铉
+
+Notice something? 玄 mostly occurs on the right. This an indication that it acts as a phonetic radical, providing pronunciation information in semantic-phonetic compounds. <strong>Only three characters seem to use 玄 as a semantic radical:</strong> 玅玆玈, of which one is just a variant of 妙 in 玄妙.
+
+If you look at the pronunciation of the other characters you get this:
+
+弦 (xián), 昡 (xuàn), 泫 (xuàn), 炫 (xuàn), 牽 (qiān), 玹 (xuán), 眩 (xuàn), 舷 (xián), 蚿 (xián),铉 (xuàn)
+
+See the trend there? 玄 most definitely acts as a phonetic radical, rather than a semantic radical. It's kinda disappointing that it isn't used a semantic radical more often, 'cause it definitely has interesting meaning.
+<h2>Conclusion</h2>
+I find it strange that 玄 is actually included in the <a href="http://en.wikipedia.org/wiki/List_of_Kangxi_radicals">list of Kangxi radicals</a> in the first place. The list of 214 radicals are semantic radicals. Phonetic radicals, by definition, are not included in this list.<strong> 玄 definitely lives up to its definition. </strong>
+
+Oddly enough, there's another word that uses 玄: 玄乎, which means "unreliable". 玄 is definitely that, totally unreliable as a semantic radical, but at least works as a neat phonetic radical.

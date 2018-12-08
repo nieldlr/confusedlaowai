@@ -1,0 +1,28 @@
+---
+layout: post
+title: Bitcoin in China - 比特币
+date: '2011-05-31 17:30:52'
+tags:
+- e6af94e789b9e5b881
+- bitcoin-china
+- bitcoin-in-china
+- bitebi
+- chinese-yuan-for-bitcoins
+- trade-bitcoins
+---
+
+If you follow <a href="http://twitter.com/confusedlaowai">me on Twitter</a>, you would have seen I'm interested in Bitcoins recently. So, this isn't exactly a language post, but I'll give some info for those interested in Bitcoins in China and Chinese followers.
+
+Firstly, for those that don't know, Bitcoin is the new peer-to-peer cryptocurrency that has been receiving some interest lately. Here is video that explains the concept:
+
+<div align="center"><object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/Um63OQz3bjo?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Um63OQz3bjo?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+
+Get it yet? If not checkout <a href="http://bitcoin.org">Bitcoin.org</a>. This is basically an awesome way to send and receive money without interference. The worth of bitcoins are steadily increasing. At the time of writing this, 1 Bitcoin is about $9.5.
+
+Bitcoin translated in Chinese is: 比特币 (Bǐtè bì). There are two nice Chinese sites online at present explaining the concept in Chinese: <a href="Bitecoin.com">Bitecoin.com</a> and <a href="Bitebi.org">Bitebi.org</a>. There is also <a href="http://forum.bitcoin.org/index.php?board=30.0">Chinese forum section</a> on the official Bitcoin forums.
+
+Currently, I'm not aware of a trading site that allows easy trading to 人民币. I'm doing my trading on<a href="http://bitcoinmarket.com"> Bitcoinmarket.com</a> for dollars.
+
+If you found this post useful or just want to send me some Bitcoin love (aka donations!) send them here: 1CC5iyBuXDbzKQUhHMAqV4r5vbonJ8KTM6
+
+If you have any questions, leave a comment!
